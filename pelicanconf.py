@@ -39,3 +39,5 @@ DEFAULT_PAGINATION = False
 RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'pdfs']
+THEME = 'themes/bootstrap3'
+BOOSTRAP_THEME = 'readable'
